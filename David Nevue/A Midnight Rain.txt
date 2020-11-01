@@ -1,0 +1,25 @@
+(
+CE CE
+BD
+CE CE
+DG
+
+CE CE
+BD
+CE 
+BD
+)
+x3 
+
+(
+CE CE
+BD
+CE CE
+DG
+)
+x3
+
+(
+CE
+BD
+)x4
