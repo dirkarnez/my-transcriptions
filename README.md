@@ -5,6 +5,7 @@ my-transcriptions
 
 ### TODO
 - [ ] Transcription player
+- [ ] Midi Exporter
 
 ### Adapter development
 - https://tabledit.com/
