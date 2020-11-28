@@ -4,6 +4,8 @@ my-transcriptions
 - [Drum Machine Tab Generator - Player With Sound for ipad - iphone - ipod](http://www.gootar.com/drums5/drums5.php)
 - https://tonejs.github.io/docs/14.7.58/Transport.html
 - https://learningmusic.ableton.com/make-beats/what-are-these-sounds.html
+- https://dunkadunka.com/
+- https://gogul.dev/software/deep-drum
 
 ### TODO
 - [ ] Transcription player
